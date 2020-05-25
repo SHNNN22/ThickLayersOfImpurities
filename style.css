@@ -1,0 +1,22 @@
+html {
+  background: #000;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 666px;
+  margin: 0 auto;
+}
+body {
+  background: url("assets/VOLSENT_ThickLayersOfImpurities[theHiddens].jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+canvas {
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: relative;
+}

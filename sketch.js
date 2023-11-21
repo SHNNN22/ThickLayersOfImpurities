@@ -1,7 +1,7 @@
 let song;
 //bg = document.body.style.backgroundImage = "url('assets/rend.png')";
 function preload() {
-	song = loadSound('/assets/DistilledIgnorance.wav');
+	// song = loadSound('/assets/DistilledIgnorance.wav');
 }
 
 var inc = 0.222;
